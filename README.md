@@ -5,8 +5,6 @@
 
 ![Hack The Box](http://www.hackthebox.eu/badge/image/179789)
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jayhawk.png)
-
 - 🔭 I’m currently working on **Honeypots**
 
 - 🌱 I’m currently learning **Reverse Engineering , Android, Django, Bug Bounties and many more...**
