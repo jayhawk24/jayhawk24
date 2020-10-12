@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Gupta</h1>
-<h3 align="center">A passionate Cyber Security Engineer and Pentester from India.</h3>
+<h3 align="center">A passionate Cyber Security Enthusiast and Web Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayhawk24&label=Profile%20views&color=0e75b6&style=flat" alt="jayhawk24" /> </p>
 
