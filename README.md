@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/jayh4wk" target="blank"><img src="https://img.shields.io/twitter/follow/jayh4wk?logo=twitter&style=for-the-badge" alt="jayh4wk" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs, MongoDb**
+- 🌱 I’m currently learning **ReactJs, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://jayhawk24.tech](https://jayhawk24.tech)
 
-- 💬 Ask me about **HTML, CSS, JS, PHP, Vanilla Js**
+- 💬 Ask me about **HTML, CSS, JS, PHP, Vanilla Js, Node, Expess, React**
+
+- 📹 I upload tech videos on [youtube](https://www.youtube.com/channel/UCKc9y_rSHr9jyng8Tas-Rlw)
 
 - 📫 How to reach me **anubhavthrilling24@gmail.com**
 
