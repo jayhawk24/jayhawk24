@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://jayhawk24.github.io](https://jayhawk24.github.io)
+- 👨‍💻 All of my projects are available at [https://jayhawk24.tech](https://jayhawk24.tech)
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Vanilla Js**
 
