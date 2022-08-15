@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://jayhawk24.tech](https://jayhawk24.tech)
+- 👨‍💻 All of my projects are available at [https://jayhawk24.github.io/](https://jayhawk24.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Vanilla Js, Node, Expess, React**
 
