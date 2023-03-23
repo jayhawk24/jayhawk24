@@ -13,7 +13,7 @@
 
 - 📹 I upload tech videos on [youtube](https://www.youtube.com/channel/UCKc9y_rSHr9jyng8Tas-Rlw)
 
-- 📫 How to reach me **anubhavthrilling24@gmail.com**
+- 📫 How to reach me **dev.anubhav24@gmail.com**
 
 - 📝 I occasionally write blogs at [medium](https://medium.com/@jayhawk24)
 
