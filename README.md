@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jayh4wk" target="blank"><img src="https://img.shields.io/twitter/follow/jayh4wk?logo=twitter&style=for-the-badge" alt="jayh4wk" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+- 🌱 I’m currently learning **GoLang, FastAPI**
 
-- 👨‍💻 All of my projects are available at [https://jayhawk24.github.io/](https://jayhawk24.github.io/)
+- 👨‍💻 All of my projects are available at [https://anubhav24.vercel.app/](https://anubhav24.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, Vanilla Js, Node, Expess, React**
 
